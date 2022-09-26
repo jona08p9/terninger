@@ -2,7 +2,6 @@ import java.util.Random;
 
 public class Raflebaeger {
     private int antalTerninger;
-
     private int[] terninger;
 
 
